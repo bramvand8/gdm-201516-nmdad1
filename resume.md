@@ -2,8 +2,9 @@
 Hallo, ik ben Bram Van de Voorde, 19 jaar en studeer grafische en digitale media aan Artevelde Hogeschool.
 #Portfolio
 #Werkervaring
-2014 - Kersen pluk Engelendael<br> 
-2015 - Jobstudent Colruyt
+1. 2014 - Kersen pluk Engelendael 
+2. 2015 - Jobstudent Colruyt
+
 #Kennis webtechnologieën
 * HTML
 	* HTML5
