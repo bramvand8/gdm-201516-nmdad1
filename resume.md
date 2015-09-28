@@ -10,6 +10,7 @@ Hallo, ik ben Bram Van de Voorde, 19 jaar en studeer grafische en digitale media
 * CSS
 * Javascript
 	* jQuery
-* SQL  
+* SQL
+  
 #Softwarekennis
 #Contactinformatie
