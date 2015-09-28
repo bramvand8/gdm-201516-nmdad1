@@ -5,6 +5,11 @@ Hallo, ik ben Bram Van de Voorde, 19 jaar en studeer grafische en digitale media
 2014 - Kersen pluk Engelendael<br> 
 2015 - Jobstudent Colruyt
 #Kennis webtechnologieën
-html, css, javascript, jquery
+* HTML
+	* HTML5
+* CSS
+* Javascript
+	* jQuery
+* SQL  
 #Softwarekennis
 #Contactinformatie
