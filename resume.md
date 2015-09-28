@@ -1,6 +1,6 @@
-Résumé Bram Van de Voorde 
+#Résumé Bram Van de Voorde 
 ##Biografie
-ik ben Bram Van de Voorde, geboren te Eeklo op 18 September 1996.<br>
+Ik ben Bram Van de Voorde, geboren te Eeklo op 18 September 1996.<br>
 Momenteel zit ik in mijn tweede jaar multimediaproductie op Artevelde Hogeschool campus Mariakerke.
 ##Portfolio
 Afgestudeerd in de richting Secretariaat-Talen op het College O.-L.-V.-ten Doorn. 
